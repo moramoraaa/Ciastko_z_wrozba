@@ -1,4 +1,8 @@
 # Ciasteczko z wróżbą
+''' Napisz program, który symuluje ciasteczko z wróżbą. Program powinien
+wyświetlić jedną z pięciu niepowtarzalnych przepowiedni, dokonując losowego
+wyboru przy każdym uruchomieniu. '''
+
 
 from random import randint
 
